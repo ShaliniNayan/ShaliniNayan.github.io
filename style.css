@@ -490,7 +490,7 @@ textarea::placeholder {
   background-color: #2230d2;
 }
 
-.btn:hover {
+.button:hover {
   color: #6070ff;
 }
 
@@ -642,6 +642,13 @@ textarea::placeholder {
     font-weight: 700;
     font-size: 18px;
     transition: all 0.5s ease-out;
+  }
+
+  .logo:hover {
+  background-color: #ffcccc;
+  width: 200px;
+  height: 200px;
+}
   }
 
   .desktop-nav-menu {

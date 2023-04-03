@@ -1,8 +1,9 @@
 # Shalini_Portfolio
+
 # Portfolio: setup and mobile first & desktop version
 
-
 REQUIRED SECTIONS:
+
 - Table of Contents
 - About the Project
   - Built With
@@ -16,14 +17,12 @@ REQUIRED SECTIONS:
 - License
 
 OPTIONAL SECTIONS:
+
 - FAQ
 
-
-
 <div align="center">
- 
 
-  
+
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -54,13 +53,11 @@ OPTIONAL SECTIONS:
 
 # 📖 [Shalini_Portfolio] <a name="Portfolio: setup and mobile first & desktop version"></a>
 
-
 **[Shalini_Portfolio]** This is my forth project Portfolio: Portfolio: setup and mobile first & desktop version
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
 
 <details>
   <summary>Client</summary>
@@ -76,7 +73,6 @@ OPTIONAL SECTIONS:
   </ul>
 </details>
 
-
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
@@ -91,15 +87,13 @@ OPTIONAL SECTIONS:
 
 <!--## 🚀 Live Demo <a name="live-demo"></a>-->
 
-
-
+https://shalininayan.github.io/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
 
 To get a local copy up and running, follow these steps.
 
@@ -132,8 +126,6 @@ Example commands:
 
 Install this project with:
 
-
-
 ### Usage
 
 To run the project, execute the following command:
@@ -145,8 +137,6 @@ Example command:
   live server
 ```
 --->
-
-
 
 ### Deployment
 
@@ -166,16 +156,13 @@ github pages
 
 ## 👥 Authors <a name="authors"></a>
 
-
 👤 **Author1**
 
 - GitHub: [@ShaliniNayan](https://github.com/ShaliniNayan)
 - Twitter: [@sndprs](https://twitter.com/sndprs)
 - LinkedIn: [shalini-nayan-5820389](https://linkedin.com/in/shalini-nayan-5820389)
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -193,7 +180,6 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-
 If you like this project please thumbs up.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -202,11 +188,9 @@ If you like this project please thumbs up.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-
 I would like to thank my coding partners, mentors, Microverse to support me.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -215,6 +199,5 @@ I would like to thank my coding partners, mentors, Microverse to support me.
 ## 📝 License <a name="LICENSE.md"></a>
 
 This project is [MIT](./LICENSE.md) licensed.
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
