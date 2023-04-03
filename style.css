@@ -646,6 +646,7 @@ textarea::placeholder {
 
   .logo:hover {
     color: red;
+    font-size: 40px;
   }
 
   .desktop-nav-menu {
