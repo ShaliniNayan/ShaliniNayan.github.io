@@ -22,7 +22,6 @@ OPTIONAL SECTIONS:
 
 <div align="center">
 
-
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -87,7 +86,7 @@ OPTIONAL SECTIONS:
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-https://shalininayan.github.io/
+- [Live Demo Link](https://shalininayan.github.io/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
