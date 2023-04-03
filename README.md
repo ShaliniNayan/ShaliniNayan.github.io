@@ -85,7 +85,7 @@ OPTIONAL SECTIONS:
 
 <!-- LIVE DEMO -->
 
-<!--## 🚀 Live Demo <a name="live-demo"></a>-->
+## 🚀 Live Demo <a name="live-demo"></a>
 
 https://shalininayan.github.io/
 

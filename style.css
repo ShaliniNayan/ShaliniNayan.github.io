@@ -645,10 +645,7 @@ textarea::placeholder {
   }
 
   .logo:hover {
-  background-color: #ffcccc;
-  width: 200px;
-  height: 200px;
-}
+    color: red;
   }
 
   .desktop-nav-menu {
@@ -1023,4 +1020,4 @@ textarea::placeholder {
     visibility: visible;
     opacity: 0;
   }
-
+}
