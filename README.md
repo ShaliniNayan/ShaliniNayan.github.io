@@ -19,9 +19,11 @@ REQUIRED SECTIONS:
 OPTIONAL SECTIONS:
 
 - FAQ
+  <a name="readme-top">
 
 <div align="center">
 
+<h3><b>Portfolio: setup and mobile first & desktop version</b></h3>
 </div>
 
 <!-- TABLE OF CONTENTS -->
